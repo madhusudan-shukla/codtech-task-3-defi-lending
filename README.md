@@ -1,4 +1,4 @@
-# 💸 CodTech Task 3 - DeFi Lending & Borrowing DApp
+#  CodTech Task 3 - DeFi Lending & Borrowing DApp
 
 A decentralized finance (DeFi) application that allows users to lend and borrow crypto tokens with a simple interest-based model. Developed as part of the **CodTech Blockchain Internship**.
 
